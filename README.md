@@ -1,5 +1,3 @@
-![Japanese](https://github.com/aki2o/org-link-travis/blob/master/README-ja.md)
-
 # What's this?
 
 This is a extension of Emacs that provides functions to insert/export the link of Travis CI on org-mode.  
