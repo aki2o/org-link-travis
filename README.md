@@ -12,11 +12,11 @@ This is a extension of Emacs that provides functions to insert/export the link o
 
 ### If use package.el
 
-2014/04/05 Now application
+2014/04/05 It's available by using melpa.
 
 ### If use el-get.el
 
-2014/04/05 Now application
+2014/04/05 It's available. But, master branch only.
 
 ### If use auto-install.el
 
