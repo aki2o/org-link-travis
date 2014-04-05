@@ -6,6 +6,7 @@
 ;; Keywords: org
 ;; URL: https://github.com/aki2o/org-link-travis
 ;; Version: 0.0.1
+;; Package-Requires: ((org "7"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
